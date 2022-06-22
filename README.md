@@ -31,5 +31,16 @@ pip install requirements.txt
 2. You can directly run the main.py or run this command by changing the directory to the folder where all the files are present.
 ```
 python main.py
+
 ```
 
+## 🏷 Support
+
+Reach out to the maintainer at one of the following places:
+
+- Contact options listed on [this GitHub profile](https://github.com/RishBropromax)
+- Contact another options listed on [this GitHub profile](https://github.com/ImRishmika)
+- Contact another options listed on [Telegram](https://t.me/ImRishmika)<br>
+- Subscribe My Youtube Channel [Youtube](https://www.youtube.com/channel/UCTIprdrvIiMjFdFwJgnmTUg)
+
+ <h2>Thanks for using my repo. Send me the faults and shortcomings of this repo via telegram. Or add it to my support group👊👊
