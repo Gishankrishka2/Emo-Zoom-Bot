@@ -1,4 +1,4 @@
-mport config
+import config
 import pyautogui
 import time
 
